@@ -9,7 +9,7 @@
 ## 1. GENERAL INFORMATION & DELIVERABLE LINKS
 * **Team Members:**
   1. Nguyễn Thiên Mã — Student ID: 23IT257 — Role: Sole Developer (Full-stack Mobile) — Contribution: 100%
-* **🔗 Live Demo URL:** Chưa triển khai bản public online. Chạy local qua `npm run dev` (web) hoặc `npm run cap:android` / `npm run cap:ios` (native) — xem hướng dẫn chi tiết trong `README.md`.
+* **🔗 Live Demo URL:** https://mini-project2-ltdnt.vercel.app/ (bản Web — CRUD/offline/camera/GPS chạy đầy đủ; đăng nhập Google chưa bật trên bản deploy này do biến môi trường `VITE_FIREBASE_*` chưa được cấu hình trên Vercel, xem ghi chú bên dưới). Bản native (Android/iOS) chạy local qua `npm run cap:android` / `npm run cap:ios` — xem hướng dẫn trong `README.md`.
 * **💻 GitHub Repository:** https://github.com/AlenJason/Mini-Project2-LTDNT
 * **🎥 Video Demo (Optional):** Không có.
 
